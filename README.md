@@ -1,2 +1,2 @@
 # Abdullah
-Web Technologies
+Mobile App Developer
